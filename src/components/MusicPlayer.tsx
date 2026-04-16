@@ -2,7 +2,7 @@ import { useState, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
 // Replace with your own audio URL or file path
-const MUSIC_URL = "Tere Naal - Rahat fateh ali khan  Anay Official.mp3";
+const MUSIC_URL = "Main Rang Sharbaton Ka  Arijit Singh  Phata Poster Nikhla Hero  2013.mp3";
 
 const MusicPlayer = () => {
   const [isPlaying, setIsPlaying] = useState(false);

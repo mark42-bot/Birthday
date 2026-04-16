@@ -10,7 +10,7 @@ const WRONG_MESSAGES = [
   "❤️ Hint: something about us...",
 ];
 
-const CORRECT_PASSWORD = "iloveyou";
+const CORRECT_PASSWORD = "beturukimumma";
 
 interface LockScreenProps {
   onUnlock: () => void;
